@@ -1,0 +1,1 @@
+{'-input_framerate': 60.0, '-vcodec': 'h264_vaapi', '-vaapi_device': '/dev/dri/renderD128', '-profile:v': 'high', '-b:v': '30.0M', '-c:a': 'aac', '-vf': 'format=nv12,hwupload'}
